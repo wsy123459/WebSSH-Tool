@@ -1,5 +1,3 @@
-# WebSSH-Tool
-WebSSH工具
 # WebSSH
 
 > 纯 PHP 实现的网页 SSH 终端 —— 打开浏览器就能连服务器，无需安装任何客户端。
