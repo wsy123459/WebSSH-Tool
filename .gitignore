@@ -1,0 +1,9 @@
+data/
+*.log
+vendor/
+assets/shot-*.png
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
